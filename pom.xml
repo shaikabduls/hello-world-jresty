@@ -14,6 +14,9 @@
 		<struts2.version>2.1.8</struts2.version>
 		<jetty.version>7.2.0.v20101020</jetty.version>
 		<jresty.version>0.0.1</jresty.version>
+		<sonar.host.url>http://13.235.99.151:9000/</sonar.host.url>
+		<sonar.login>admin</sonar.login>
+		<sonar.password>admin<sonar.password>
 	</properties>
 
 	<profiles>
