@@ -28,7 +28,7 @@
 			<properties>
 				<build.profile>rd</build.profile>
 			</properties>
-			<id>sonar</id>
+			<!-- <id>sonar</id>
 			<activation>
 				<activeByDefault>true</activeByDefault>
 				</activation>
@@ -46,7 +46,7 @@
 				   <version>${sonar-maven-plugin.version}</version>
 			   </plugin>
 	                 <plugins>
-		        </build>  	       
+		        </build> -->  	       
 				 
 		</profile>
 		<profile>
